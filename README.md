@@ -1,6 +1,6 @@
-# Progama Layout Responsivo
+# Programa Layout Responsivo
 
-App criado para a atividade 02 da disciplina 11 - Desenvolvimento web do curso Talento Tech.
+App criado para a atividade 02 da disciplina 11 - Desenvolvimento WEB do curso Talento Tech.
 
 ## Getting Started
 
