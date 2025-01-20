@@ -1,6 +1,6 @@
-# myapp
+# Progama Layout Responsivo
 
-A new Flutter project.
+App criado para a atividade 02 da disciplina 11 - Desenvolvimento web do curso Talento Tech.
 
 ## Getting Started
 
